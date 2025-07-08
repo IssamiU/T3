@@ -24,14 +24,23 @@
 ## Instalação
 
 1. **Clone o repositório:**
-git clone <URL-do-repositório>
+
+```
+git clone https://github.com/IssamiU/T3
+```
 
 
 2. **Instale as dependências:**
+
+```
 npm install
+```
 
 ## Como Rodar o Projeto: 
+
+```
 npm start
+```
 
 
 ## Observações Importantes
