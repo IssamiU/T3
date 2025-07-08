@@ -4,7 +4,7 @@
 
 | Dependência                    | Versão             |
 |--------------------------------|--------------------|
-| Node.js                        | 16.x (recomendado) |
+| Node.js                        | 16.x (obrigatório) |
 | React                          | ^18.2.0            |
 | React DOM                      | ^18.2.0            |
 | React Scripts                  | 5.0.1              |
